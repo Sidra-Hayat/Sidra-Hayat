@@ -14,7 +14,7 @@ A complete desktop application with:
 - Clean Java Swing GUI
 
  Skills
-- **Languages:** Java, SQL, HTML/CSS (basic)
+- **Languages:** Java, SQL(basic)
 - **GUI Frameworks:** Swing,
 - **Tools:** IntelliJ IDEA, Git, GitHub, MySQL Workbench
 - **Concepts:** OOP, File Handling, MVC Design, User Authentication
