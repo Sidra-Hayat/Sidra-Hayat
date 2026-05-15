@@ -19,6 +19,15 @@ A complete desktop application built with Java Swing featuring:
 - Customer approval system
 - Clean, professional Java Swing GUI
 
+### ✅ To-Do List Manager (Data Structures Project)
+
+A Java-based to-do list application built using data structures concepts:
+
+- Task creation, management, and tracking
+- Data structure implementation
+- Clean and intuitive user interface
+- **Repository:** [ToDoProjectDS](https://github.com/Sidra-Hayat/ToDoProjectDS)
+
 ---
 
 ## 💡 Skills
@@ -26,7 +35,7 @@ A complete desktop application built with Java Swing featuring:
 - **Languages:** Java, SQL (basic)
 - **GUI Frameworks:** Swing
 - **Tools:** IntelliJ IDEA, Git, GitHub, MySQL Workbench
-- **Concepts:** OOP, File Handling, MVC Design, User Authentication
+- **Concepts:** OOP, File Handling, MVC Design, User Authentication, Data Structures
 
 ---
 
